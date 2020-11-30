@@ -1,0 +1,47 @@
+body{
+   background-color: #ffffff;
+}
+.footer{
+    background-color: #eed5c0;
+    
+}
+.navbar{
+    background-color: #8674f0;
+}
+.jumbotron {
+    background-image: url('https://image.shutterstock.com/image-illustration/work-sweat-achieve-workout-fitness-260nw-356262119.jpg');
+   background-repeat: no-repeat;
+   background-size: 100% 110%; 
+   overflow-y: hidden;
+    color:floralwhite;
+    height: 200px;
+}
+
+
+.row-kiran{
+margin:20px;
+padding:60px 0px 60px 0px;
+}
+input[type="radio"]{
+    margin: 0px 10px 0px 10px;
+  }
+input[type="date"]{
+    margin:0px 10px 0px 10px;
+}
+.modal-body{
+   background-color : floralwhite;
+    color: black;
+}
+.modal-header{
+    background-color:  #e4da7f;
+    color:black;
+}
+.modal-content {
+    color:black;
+}
+.close{
+    color: floralwhite;
+}
+#forlogin{
+    color: floralwhite;
+}
